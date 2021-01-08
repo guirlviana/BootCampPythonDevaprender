@@ -41,8 +41,8 @@ def controller():
                 stop = True
 
             else:
-                print('Comando inválido, tente novamente')
-        # ---------------
+                print('Comando inválido')
+        
         if len(DATAS_USERS) != 0:
             utils.line()
             for datas in DATAS_USERS:

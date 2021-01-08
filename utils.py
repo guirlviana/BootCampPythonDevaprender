@@ -13,7 +13,6 @@ def menuOptions():
 [4] - Cidade
 [5] - Estado''')
 
-
 def getNames():
     return ['Goku', 'Piccolo', 'Kuririn', 'Vegeta', 'Bulma']
 
